@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kieran</h1>
+<h1 align="center">Hey 👋, I'm Kieran</h1>
 <h3 align="center">A Data Security Engineer at ITV</h3>
 
 <!-- - 🔭 I’m currently working on ...
