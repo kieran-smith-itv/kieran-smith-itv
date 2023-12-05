@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kieran</h1>
-<h3 align="center">A Data Security Engineer at ITV</h3>
+<h3 align="center">A Senior Security Engineer at ITV</h3>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
